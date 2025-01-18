@@ -141,7 +141,7 @@ The `Product` schema in `models/projectManagement.js` includes:
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ## Author
-[Your Name]
+[Sohraab Ali Ansaari]
 
 ---
 Thank you for using this API!
